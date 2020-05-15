@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc291fdb-19c2-4d5f-a865-caeab76d5c94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.data/script.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env_sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATTRIBUTIONS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/express_webserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/routes/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/dialog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/controller.editBot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/controller.editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npm-debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bot_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bot_avatars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/new.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/ciscospark_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/conditional.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/facebook_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/facebook_button_attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/facebook_generic_attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/facebook_media_attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/meta_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/properties_incoming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/properties_none.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/properties_outgoing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/slack_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/teams_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/teams_attachments_file.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/teams_attachments_hero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/teams_attachments_thumbnail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/partials/web_attachments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/no message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/no_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-icon-cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-icon-chevron-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-icon-ic_chat-unhover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-icon-ic_setting-unhover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-logo-looa-landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-logo-looa-logogram-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/symbols-logo-looa-logogram-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_scripts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_ed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_skeleton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/features/_input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/features/_inspector.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/features/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/features/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/features/_text-tokens.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/foundation/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/foundation/_flex-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/foundation/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/new.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/botkit_mutagen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/no message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/no message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-icon-cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-icon-chevron-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-icon-ic_chat-unhover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-icon-ic_setting-unhover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-icon-profilepicure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-logo-looa-landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-logo-looa-logogram-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/symbols-logo-looa-logogram-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/config.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/edit.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/instructions.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layouts/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/branches.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/description.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/message_list.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_branch.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_duplicate.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_export.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_info.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_menu.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/editor/modal_triggers.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/foot.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/header.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/importexport/modal_create.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/importexport/modal_export.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/importexport/modal_import.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/modal.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/nav.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bpcZftXfSGO706XdMmDORnr4HV" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc291fdb-19c2-4d5f-a865-caeab76d5c94" name="Default Changelist" comment="" />
+      <created>1589332534143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589332534143</updated>
+    </task>
+    <servers />
+  </component>
+</project>
